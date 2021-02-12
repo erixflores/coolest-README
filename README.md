@@ -1,4 +1,4 @@
-# amazing!
+# Professinal README generator
     
 #### Table of Contents
 1. [Project Description](#project-description)
@@ -10,19 +10,19 @@
 7. [License](#license)
 8. [Questions](#questions)
 ## Project Description
-* vc
+* creating READMEs using node.js
 ## Installation Instructions
-* vd
+* npm init and npm install inquirer
 ## Usage Information
-* v
+* To generate READMEs by using node.js and terminal
 ## Contributor Guidelines
-* cdv
+* none
 ## Code of Conduct
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 ## Test Instructions
-* cdv
+* none
 ## License
 * licensed under the 
 ## Questions
-* For additional help or questions about collaboration, please reach out to vcx
-* Follow me on Github at [v](http://github.com/v)
+* For additional help or questions about collaboration, please reach out to erixflores@gmail.com
+* Follow me on Github at [erixflores](http://github.com/erixflores)
